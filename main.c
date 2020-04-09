@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     do {
         opc = menu();
 
-        printf("Has ELEGIDOOOO el %d \n", opc);
+        printf("Has ELEGIDOOeeeeOO el %d \n", opc);
 
         switch (opc) {
 
